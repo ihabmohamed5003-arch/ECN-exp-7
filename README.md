@@ -36,8 +36,8 @@ frequency response is shown in figure 2.The two additional frequencies  f 1 and 
 
 
 **TABULATION:**
-<img width="1000" height="517" alt="image" src="https://github.com/user-attachments/assets/db6934ce-0035-4d5b-953a-a151f26d46a3" />
-<img width="1000" height="524" alt="image" src="https://github.com/user-attachments/assets/7ae4c3df-6090-4fa7-a30a-4af1fe12cc6f" />
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/0031ee6f-6635-4fa2-9530-47dcf3500bff" />
+
 
 
 **Calculation:**
