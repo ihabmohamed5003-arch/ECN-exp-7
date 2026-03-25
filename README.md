@@ -57,8 +57,10 @@ frequency response is shown in figure 2.The two additional frequencies  f 1 and 
 8.	Repeat steps 1 through 7 for Parallel resonance circuit  shown.
 
 **Mark split up:**
-![Uploading image.png…]()
+<img width="1600" height="1600" alt="image" src="https://github.com/user-attachments/assets/40da67bf-f068-44b2-8516-fa040ab53452" />
+
 
 **RESULT:**
+
 
 Thus the phenomenon of resonance in RLC circuit was studied and the following were determined using Multisim Simulator.
